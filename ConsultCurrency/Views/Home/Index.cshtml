@@ -1,0 +1,88 @@
+﻿@using ConsultCurrency.Models
+@model Cambio
+
+@{
+    ViewData["Title"] = "Consultar Câmbio e Moeda";
+
+    var moeda = new SelectList(new[]{
+new SelectListItem {Value = "", Text = "Selecione..."},
+new SelectListItem {Value = "0", Text = "Dólar"},
+new SelectListItem {Value = "1", Text = "Euro"},
+}, "Value", "Text");
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "Buscar" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="modal-body">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Moeda)
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h1>Câmbio do Dia Corrente</h1>
+    </div>
+    @Html.ActionLink("Periodo","Periodo", "Home", null, new { @class = "navbar-brand" })
+
+</div>
+<div class="col-md-2" id="container">
+    <div class="form-group">
+
+        @Html.DropDownListFor(model => model.MoedaID_MOEDA, moeda, new { @class = "filter form-control selectpicker btn dropdown-toggle btn-default", @id = "moeda", @title = "Selecione...", @style = "border:1px solid black" })
+
+        <a href="#" class="btn btn-primary" role="button" onclick="Buscar(this)" data-placement="bottom" data-original-title="Buscar Cotação" style="margin-top: 5px;margin-left: 17px;">
+            <i class="fa fa-fw fa-plus-circle" aria-hidden="true"></i>
+            <span class="hidden-xs">&nbsp;Buscar Cotação</span>
+        </a>
+
+    </div>
+</div>
+
+<script>
+
+    function Buscar(btn) {
+        debugger
+        idMoeda = $('#moeda').val();
+
+        if (idMoeda == '') {
+            $('.alert').alert();
+            return false;
+        }
+        var dados = {
+            idMoeda: idMoeda
+        }
+
+        $.ajax({
+            type: "GET",
+            url: '@Url.Action("GetValueDay", "Home")',
+            processData: true,
+            //data: '{json : "' + JSON.stringify(json) + '" }',
+            data: dados,
+            contentType: "application/json",
+            success: function (retorno) {
+                if (retorno == false) {
+                    Alert('Ocorreu um erro na aplicação.', 'danger');
+                }
+                else if (retorno == "DeleteError") {
+                    Alert('Ocorreu um erro na aplicação.', 'chave');
+                }
+            },
+            error: function (e, er) {
+                Alert('Ocorreu um erro na aplicação.', 'danger');
+            }
+        });
+        e.preventDefault();
+    }
+</script>
+<style>
+    #container {
+        height: 110px;
+        width: 320px;
+        border: 1px solid black;
+        position: relative;
+        padding: 5px;
+    }  
+</style>

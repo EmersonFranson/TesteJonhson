@@ -1,0 +1,460 @@
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.exe
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.deps.json
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.json
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.dev.json
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csprojAssemblyReference.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfoInputs.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfo.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CoreCompileInputs.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.Manifest.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.xml
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\scopedcss\bundle\ConsultCurrency.styles.css
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.input.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.output.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorCoreGenerate.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cs
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.genruntimeconfig.cache
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CopyComplete
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Franson\source\repos\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfoInputs.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CoreCompileInputs.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.input.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.output.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorCoreGenerate.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.exe
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.deps.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.dev.json
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CopyComplete
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.Manifest.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.xml
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.genruntimeconfig.cache
+C:\Users\emerson.franson\Desktop\pessoal\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csprojAssemblyReference.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.exe
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.deps.json
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.json
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.dev.json
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csprojAssemblyReference.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfoInputs.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfo.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CoreCompileInputs.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.MvcApplicationPartsAssemblyInfo.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.Manifest.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.xml
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\scopedcss\bundle\ConsultCurrency.styles.css
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.input.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.output.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorCoreGenerate.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cs
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CopyComplete
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.genruntimeconfig.cache
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pessoal\Projetos\Johnson_Controls\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Periodo.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.exe
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.deps.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.runtimeconfig.dev.json
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csprojAssemblyReference.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfoInputs.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.AssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorAssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.input.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.TagHelpers.output.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorCoreGenerate.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Periodo.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.RazorTargetAssemblyInfo.cs
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.Views.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CopyComplete
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.Manifest.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\staticwebassets\ConsultCurrency.StaticWebAssets.xml
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.pdb
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.genruntimeconfig.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\bin\Debug\netcoreapp3.1\Nager.Date.dll
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.csproj.CoreCompileInputs.cache
+C:\Users\emerson.franson\Desktop\Nova pasta\ConsultCurrency\ConsultCurrency\obj\Debug\netcoreapp3.1\ConsultCurrency.MvcApplicationPartsAssemblyInfo.cache
